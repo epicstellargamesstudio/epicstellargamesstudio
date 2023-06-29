@@ -1,4 +1,4 @@
-<h3 align="center">We make High Quality Softwares.</h3>
+<h3 align="center">Create High Quality 3D games.</h3>
 
 [Official Website](https://epicstellarstudio.in.eu.org)
 
